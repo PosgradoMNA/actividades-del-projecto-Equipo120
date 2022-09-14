@@ -1,3 +1,19 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8478487&assignment_repo_type=AssignmentRepo)
-# ActividadesProjecto-
-Los avances del projecto final de mi equipo voy a subir aqui : 
+# Equipo 174: Acividades del proyecto
+
+
+### Grupo
+
+- Ciencia y analítica de datos (Gpo 10)
+
+### Descripción
+
+- En este repositorio se concentrarán las diferentes actividades del proyecto final separados por semanas. Todo se manejará por un archivo notebook `.ipynb` y se dividiran en entregas semanales
+
+### Pre-requisitos
+
+1. IDE compatible con notebooks en formato `.ipynb`.
+2. Python 3.6+
+
+### Alumno
+
+- César Iván Pedrero Martínez (A01366501)
