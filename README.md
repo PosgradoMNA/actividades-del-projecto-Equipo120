@@ -14,6 +14,6 @@
 1. IDE compatible con notebooks en formato `.ipynb`.
 2. Python 3.6+
 
-### Alumno
+### Alumnos
 
 - César Iván Pedrero Martínez (A01366501)
