@@ -1,4 +1,4 @@
-# Equipo 174: Acividades del proyecto
+# Equipo 120: Acividades del proyecto
 
 
 ### Grupo
