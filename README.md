@@ -7,7 +7,7 @@
 
 ### Descripción
 
-- En este repositorio se concentrarán las diferentes actividades del proyecto final separados por semanas. Todo se manejará por un archivo notebook `.ipynb` y se dividiran en entregas semanales
+- En este repositorio se concentrarán las diferentes actividades del proyecto final separadas por semanas. Todo se manejará por un archivo notebook `.ipynb` y se dividiran en entregas semanales.
 
 ### Pre-requisitos
 
